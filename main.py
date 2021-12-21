@@ -1,6 +1,6 @@
 authors = "Audre Lorde,Gabriela Mistral,Jean Toomer,An Qi,Walt Whitman,Shel Silverstein,Carmen Boullosa,Kamala Suraiyya,Langston Hughes,Adrienne Rich,Nikki Giovanni"
 #list of author names
-#the problem asks us to create a list of all the author names by using split with ',' as its argument
+#the problem asks us to create a list of all the author names by using split method with ',' as its argument
 
 author_names = authors.split(',') #creates list of author names and prints them
 print(author_names)
